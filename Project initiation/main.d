@@ -1,0 +1,9 @@
+.\main.o: main.c
+.\main.o: io.h
+.\main.o: distance.h
+.\main.o: GPIO.h
+.\main.o: UART.h
+.\main.o: Systick.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\main.o: GPS.h
