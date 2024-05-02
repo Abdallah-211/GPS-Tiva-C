@@ -22,3 +22,5 @@ void number_of_10ms (uint32_t n)
     WAIT_FOR_10MS(160000);
   }
 }
+void nothing (void){
+}
