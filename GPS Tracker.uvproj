@@ -420,6 +420,11 @@
               <FileType>1</FileType>
               <FilePath>.\zyad.c</FilePath>
             </File>
+            <File>
+              <FileName>Test.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Test.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>
